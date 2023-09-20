@@ -1,3 +1,6 @@
 table{
-    border : dashed blue 3px;  
+    border : dashed red 3px;
+}
+img{
+    border-radius: 50%;
 }

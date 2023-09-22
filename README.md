@@ -3,6 +3,7 @@
   "𝙇𝙞𝙛𝙚 𝙘𝙖𝙣 𝙗𝙚 𝙩𝙤𝙪𝙜𝙝, 𝙗𝙪𝙩 𝙘𝙝𝙖𝙨𝙚 𝙮𝙤𝙪𝙧 𝙙𝙧𝙚𝙖𝙢𝙨."
 
   My Road to full stack developer + my comment
+  
   ᴡᴇᴇᴋ 1 - Get to know Html
   
   ᴡᴇᴇᴋ 2 - The index is starting to look cool.
